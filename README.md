@@ -39,11 +39,11 @@ Focus on Java backend development, Android/Kotlin applications, and database-con
 
 ### [KotlinLiga](https://github.com/SoNataLiia/KotlinLiga)
 
-Android football league app built with Kotlin, Firebase Authentication, Realtime Database, TheSportsDB API, RecyclerView, Glide, and Navigation Component.
+Football League app with Firebase Authentication (realtime database).
 
-Includes login, registration, league browsing, team details, and user favorites.
+Includes Login, Registration, League browsing, Team details, and User favorites.
 
-**Tech:** Kotlin · Android · Firebase · REST API · RecyclerView · Glide
+**Tech:** Kotlin · Android · Firebase · REST API · Glide
 
 <a href="https://github.com/SoNataLiia/KotlinLiga">
   <img src="https://raw.githubusercontent.com/SoNataLiia/KotlinLiga/main/preview.png" width="720" alt="KotlinLiga project preview" />
@@ -53,7 +53,7 @@ Includes login, registration, league browsing, team details, and user favorites.
 
 ### [Book API Spring Boot](https://github.com/SoNataLiia/Book-api-springboot)
 
-REST API for book management built with Java, Spring Boot, JPA/Hibernate, and MariaDB.
+Book Management app.
 
 Includes CRUD operations, title search, pagination, validation, custom exception handling, and Swagger/OpenAPI documentation.
 
