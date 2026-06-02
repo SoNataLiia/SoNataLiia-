@@ -12,7 +12,7 @@ Based in Valencia, Spain
 
 Higher Technician degree in Multiplatform Application Development (DAM) at Universidad Europea.
 
-My focus is Java backend development, Android/Kotlin applications, and database-connected systems. I also bring mobile QA internship experience and a previous background in operations, documentation, and process-oriented work.
+Focus on Java backend development, Android/Kotlin applications, and database-connected systems. Have a QA experience and a previous background in operations, documentation, and process-oriented work.
 
 ---
 
