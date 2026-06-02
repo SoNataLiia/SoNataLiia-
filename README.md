@@ -10,7 +10,7 @@
 Java · Spring Boot · Kotlin · Android · SQL  
 Based in Valencia, Spain
 
-I am currently completing a Higher Technician degree in Multiplatform Application Development (DAM) at Universidad Europea.
+Higher Technician degree in Multiplatform Application Development (DAM) at Universidad Europea.
 
 My focus is Java backend development, Android/Kotlin applications, and database-connected systems. I also bring mobile QA internship experience and a previous background in operations, documentation, and process-oriented work.
 
