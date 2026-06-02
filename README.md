@@ -31,7 +31,7 @@ Focus on Java backend development, Android/Kotlin applications, and database-con
 **Backend:** Spring Boot, REST APIs, JPA/Hibernate, JDBC  
 **Mobile:** Android SDK, Kotlin, Flutter basics  
 **Databases:** MySQL, MariaDB, SQLite, SQL  
-**QA:** Manual testing, regression testing, bug reporting, mobile QA
+**QA:** Regression testing, bug reporting, mobile QA
 
 ---
 
