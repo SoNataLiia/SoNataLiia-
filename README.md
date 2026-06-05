@@ -91,4 +91,4 @@ Desktop application for managing academic grades with role-based access for teac
 
 ## Contact
 
-[GitHub](https://github.com/SoNataLiia) · [LinkedIn](https://www.linkedin.com/in/nataliia-sokhatska) · sokhatska.n@gmail.com
+sokhatska.n@gmail.com · [LinkedIn](https://www.linkedin.com/in/nataliia-sokhatska)
