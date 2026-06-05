@@ -67,7 +67,7 @@ Includes CRUD operations, title search, pagination, validation, custom exception
 
 ### [ComprasAndroid](https://github.com/SoNataLiia/ComprasAndroid)
 
-Android shopping app with product listing, category filtering, shopping cart logic, and real-time data from DummyJSON API.
+Shopping app with product listing, category filtering, shopping cart logic, and real-time data from DummyJSON API.
 
 **Tech:** Kotlin · Android · Volley · Glide · RecyclerView
 
@@ -75,15 +75,15 @@ Android shopping app with product listing, category filtering, shopping cart log
 
 ### [Calculator PRO](https://github.com/SoNataLiia/Calculator_PRO)
 
-Scientific Android calculator built with Kotlin and Jetpack Compose. Includes portrait basic mode and landscape scientific mode with ViewModel-based state management.
+Scientific calculator. Includes portrait basic mode and landscape scientific mode with ViewModel-based state management.
 
-**Tech:** Kotlin · Jetpack Compose · MVVM · ViewModel
+**Tech:** Kotlin · Jetpack Compose · MVVM · ViewModel · Android
 
 ---
 
 ### [VentanaInicioJavaFX](https://github.com/SoNataLiia/VentanaInicioJavaFX)
 
-Desktop JavaFX application for managing academic grades with role-based access for teachers and students.
+Desktop application for managing academic grades with role-based access for teachers and students.
 
 **Tech:** Java · JavaFX · SQLite · JDBC
 
